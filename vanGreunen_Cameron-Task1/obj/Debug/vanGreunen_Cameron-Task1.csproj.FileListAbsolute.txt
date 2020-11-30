@@ -1,0 +1,3 @@
+C:\Users\bagge\source\repos\Task 1\Task-1\vanGreunen_Cameron-Task1\obj\Debug\vanGreunen_Cameron-Task1.csprojAssemblyReference.cache
+C:\Users\bagge\source\repos\Task 1\Task-1\vanGreunen_Cameron-Task1\obj\Debug\vanGreunen_Cameron_Task1.formGame.resources
+C:\Users\bagge\source\repos\Task 1\Task-1\vanGreunen_Cameron-Task1\obj\Debug\vanGreunen_Cameron-Task1.csproj.GenerateResource.cache
